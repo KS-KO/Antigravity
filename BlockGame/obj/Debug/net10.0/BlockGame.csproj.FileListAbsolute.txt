@@ -1,0 +1,14 @@
+F:\Project\Antigravity\BlockGame\bin\Debug\net10.0\BlockGame.exe
+F:\Project\Antigravity\BlockGame\bin\Debug\net10.0\BlockGame.deps.json
+F:\Project\Antigravity\BlockGame\bin\Debug\net10.0\BlockGame.runtimeconfig.json
+F:\Project\Antigravity\BlockGame\bin\Debug\net10.0\BlockGame.dll
+F:\Project\Antigravity\BlockGame\bin\Debug\net10.0\BlockGame.pdb
+F:\Project\Antigravity\BlockGame\obj\Debug\net10.0\BlockGame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Antigravity\BlockGame\obj\Debug\net10.0\BlockGame.AssemblyInfoInputs.cache
+F:\Project\Antigravity\BlockGame\obj\Debug\net10.0\BlockGame.AssemblyInfo.cs
+F:\Project\Antigravity\BlockGame\obj\Debug\net10.0\BlockGame.csproj.CoreCompileInputs.cache
+F:\Project\Antigravity\BlockGame\obj\Debug\net10.0\BlockGame.dll
+F:\Project\Antigravity\BlockGame\obj\Debug\net10.0\refint\BlockGame.dll
+F:\Project\Antigravity\BlockGame\obj\Debug\net10.0\BlockGame.pdb
+F:\Project\Antigravity\BlockGame\obj\Debug\net10.0\BlockGame.genruntimeconfig.cache
+F:\Project\Antigravity\BlockGame\obj\Debug\net10.0\ref\BlockGame.dll
