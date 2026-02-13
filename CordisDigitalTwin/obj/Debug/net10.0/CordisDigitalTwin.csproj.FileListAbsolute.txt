@@ -1,0 +1,15 @@
+F:\Project\Antigravity\CordisDigitalTwin\bin\Debug\net10.0\CordisDigitalTwin.exe
+F:\Project\Antigravity\CordisDigitalTwin\bin\Debug\net10.0\CordisDigitalTwin.deps.json
+F:\Project\Antigravity\CordisDigitalTwin\bin\Debug\net10.0\CordisDigitalTwin.runtimeconfig.json
+F:\Project\Antigravity\CordisDigitalTwin\bin\Debug\net10.0\CordisDigitalTwin.dll
+F:\Project\Antigravity\CordisDigitalTwin\bin\Debug\net10.0\CordisDigitalTwin.pdb
+F:\Project\Antigravity\CordisDigitalTwin\obj\Debug\net10.0\CordisDigitalTwin.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\Antigravity\CordisDigitalTwin\obj\Debug\net10.0\CordisDigitalTwin.AssemblyInfoInputs.cache
+F:\Project\Antigravity\CordisDigitalTwin\obj\Debug\net10.0\CordisDigitalTwin.AssemblyInfo.cs
+F:\Project\Antigravity\CordisDigitalTwin\obj\Debug\net10.0\CordisDigitalTwin.csproj.CoreCompileInputs.cache
+F:\Project\Antigravity\CordisDigitalTwin\obj\Debug\net10.0\CordisDigitalTwin.sourcelink.json
+F:\Project\Antigravity\CordisDigitalTwin\obj\Debug\net10.0\CordisDigitalTwin.dll
+F:\Project\Antigravity\CordisDigitalTwin\obj\Debug\net10.0\refint\CordisDigitalTwin.dll
+F:\Project\Antigravity\CordisDigitalTwin\obj\Debug\net10.0\CordisDigitalTwin.pdb
+F:\Project\Antigravity\CordisDigitalTwin\obj\Debug\net10.0\CordisDigitalTwin.genruntimeconfig.cache
+F:\Project\Antigravity\CordisDigitalTwin\obj\Debug\net10.0\ref\CordisDigitalTwin.dll
